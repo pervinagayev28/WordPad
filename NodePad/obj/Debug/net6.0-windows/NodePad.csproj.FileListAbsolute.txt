@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\bin\Debug\net6.0-windows\NodePad.exe
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\bin\Debug\net6.0-windows\NodePad.deps.json
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\bin\Debug\net6.0-windows\NodePad.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\bin\Debug\net6.0-windows\NodePad.dll
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\bin\Debug\net6.0-windows\NodePad.pdb
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.Form1.resources
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.dll
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\refint\NodePad.dll
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.pdb
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\NodePad.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\NodePad\NodePad\obj\Debug\net6.0-windows\ref\NodePad.dll
